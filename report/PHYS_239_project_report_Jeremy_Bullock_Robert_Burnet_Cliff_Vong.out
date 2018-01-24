@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Algorithm Choices}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Euler Method}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Euler-Cromer Method}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Midpoint Method}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Verlet Method}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{RK4 Method}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Test Cases}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Projectile Motion}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Moon's Orbit}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Simulations}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Galaxy Collisions}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Lagrange Points}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.3}{3-Body Scattering}{section.4}% 14
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Testing the Binary system}{subsection.4.3}% 15
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Outer Orbit of the Third Star}{subsection.4.3}% 16
+\BOOKMARK [3][-]{subsubsection.4.3.3}{Gravity Assist}{subsection.4.3}% 17
+\BOOKMARK [3][-]{subsubsection.4.3.4}{3 Body Scatter}{subsection.4.3}% 18
+\BOOKMARK [3][-]{subsubsection.4.3.5}{Unphysical Behaviours}{subsection.4.3}% 19
+\BOOKMARK [3][-]{subsubsection.4.3.6}{Stolen Star}{subsection.4.3}% 20
+\BOOKMARK [1][-]{section.5}{Discussion}{}% 21
+\BOOKMARK [1][-]{section.6}{Conclusions}{}% 22
+\BOOKMARK [1][-]{appendix.A}{Appendices}{}% 23
+\BOOKMARK [2][-]{subsection.A.1}{Lagrange Points: Additional Figures}{appendix.A}% 24
+\BOOKMARK [2][-]{subsection.A.2}{3 Body Scattering: Additional Figures}{appendix.A}% 25

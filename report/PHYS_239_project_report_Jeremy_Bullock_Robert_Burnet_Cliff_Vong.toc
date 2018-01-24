@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Algorithm Choices}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Euler Method}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Euler-Cromer Method}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Midpoint Method}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Verlet Method}{5}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}RK4 Method}{5}{subsection.2.5}
+\contentsline {section}{\numberline {3}Test Cases}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Projectile Motion}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Moon's Orbit}{9}{subsection.3.2}
+\contentsline {section}{\numberline {4}Simulations}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}Galaxy Collisions}{11}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Lagrange Points}{17}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}3-Body Scattering}{21}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Testing the Binary system}{21}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Outer Orbit of the Third Star}{21}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Gravity Assist}{22}{subsubsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.4}3 Body Scatter}{22}{subsubsection.4.3.4}
+\contentsline {subsubsection}{\numberline {4.3.5}Unphysical Behaviours}{22}{subsubsection.4.3.5}
+\contentsline {subsubsection}{\numberline {4.3.6}Stolen Star}{23}{subsubsection.4.3.6}
+\contentsline {section}{\numberline {5}Discussion}{24}{section.5}
+\contentsline {section}{\numberline {6}Conclusions}{25}{section.6}
+\contentsline {section}{\numberline {A}Appendices}{26}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Lagrange Points: Additional Figures}{26}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}3 Body Scattering: Additional Figures}{27}{subsection.A.2}
